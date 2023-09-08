@@ -1,4 +1,5 @@
-fruits = ["apple", "banana", "cherry","cocnut"]
+
+fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
 
